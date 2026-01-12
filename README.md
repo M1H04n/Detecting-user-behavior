@@ -6,16 +6,16 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License MIT">
 </p>
 
-A Security Operations Center (SOC) chatbot for analyzing User and Entity Behavior Analytics (UEBA) alerts with AI-powered insights.
+A Security Operations Center (SOC) chatbot for analyzing User and Entity Behavior Analytics (UEBA) alerts with AI-powered insights. For now only support VietNamese.
 
 ## Features
 
-- 🔍 **UEBA Alert Analysis** - Analyze security alerts with machine learning
-- 💬 **AI Chatbot** - Natural language interaction for alert investigation
-- 📊 **Interactive Dashboard** - Visualize alerts, trends, and user behaviors
-- 🔗 **Multi-SIEM Support** - Connect to Graylog, Wazuh, QRadar
-- 🎯 **False Positive Management** - Mark and track false positives
-- 📈 **Risk Scoring** - Automatic severity classification
+- **UEBA Alert Analysis** - Analyze security alerts with machine learning
+- **AI Chatbot** - Natural language interaction for alert investigation
+- **Interactive Dashboard** - Visualize alerts, trends, and user behaviors
+- **Multi-SIEM Support** - Connect to Graylog, Wazuh, QRadar
+- **False Positive Management** - Mark and track false positives
+- **Risk Scoring** - Automatic severity classification
 
 ## Quick Start
 
