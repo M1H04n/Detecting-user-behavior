@@ -146,8 +146,10 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Dashboard
 <img width="1906" height="942" alt="Dashboard" src="https://github.com/user-attachments/assets/b8910b77-00eb-46ad-a961-27b3f8e2f454" />
+
 ## Chatbot
 <img width="1906" height="942" alt="Chatbot" src="https://github.com/user-attachments/assets/6d0dce5b-8efd-4cca-85a4-fc3cbf132aa6" />
+
 ## User Behavior Analyst
 <img width="1906" height="942" alt="Chatbot + User_Behavior_Analysis" src="https://github.com/user-attachments/assets/f382d59e-4395-4df0-8c96-b15bf6af20db" />
 
