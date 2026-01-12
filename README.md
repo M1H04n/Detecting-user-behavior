@@ -153,4 +153,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## User Behavior Analyst
 <img width="1906" height="942" alt="Chatbot + User_Behavior_Analysis" src="https://github.com/user-attachments/assets/f382d59e-4395-4df0-8c96-b15bf6af20db" />
 
+<img width="759" height="936" alt="image" src="https://github.com/user-attachments/assets/286f0e59-d47a-4a21-9ef7-f650c3e79501" />
 
