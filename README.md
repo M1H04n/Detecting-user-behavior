@@ -8,6 +8,9 @@
 
 A Security Operations Center (SOC) chatbot for analyzing User and Entity Behavior Analytics (UEBA) alerts with AI-powered insights. For now only support VietNamese.
 
+## Note
+All features are still in development. If you run into any bugs, please bear with me!
+
 ## Features
 
 - **UEBA Alert Analysis** - Analyze security alerts with machine learning
