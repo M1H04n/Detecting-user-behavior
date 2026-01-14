@@ -1,4 +1,4 @@
-# SOC Chatbot - UEBA Alert Analysis
+# SOC Chatbot - UEBA Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-Ready-blue?logo=docker" alt="Docker Ready">
