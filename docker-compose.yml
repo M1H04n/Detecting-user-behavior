@@ -20,7 +20,7 @@ services:
       - GEMINI_API_KEY=${GEMINI_API_KEY:-}
       - OPENROUTER_API_KEY=${OPENROUTER_API_KEY:-}
     volumes:
-      - ./config:/app/config:ro # Custom configurations
+      - ./config:/app/config # Custom configurations (writable for source config)
       - ./logs:/app/logs # Application logs
       - ./backup:/app/backup # Data backups
     depends_on:
