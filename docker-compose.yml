@@ -38,6 +38,7 @@ services:
     restart: unless-stopped
     environment:
       - MONGO_URI=mongodb://soc_admin:${MONGO_PASSWORD}@mongodb:27017/soc_chatbot?authSource=admin
+      - USE_MONGODB_STORAGE=true
       - PIPELINE_INTERVAL=${PIPELINE_INTERVAL:-300}
     volumes:
       - ./config:/app/config:ro
